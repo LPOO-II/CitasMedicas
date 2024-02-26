@@ -1,0 +1,28 @@
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\ReservasCitasMedicas MLCJ\bin\Debug\ReservasCitasMedicas MLCJ.exe.config
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\ReservasCitasMedicas MLCJ\bin\Debug\ReservasCitasMedicas MLCJ.exe
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\ReservasCitasMedicas MLCJ\bin\Debug\ReservasCitasMedicas MLCJ.pdb
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\ReservasCitasMedicas MLCJ\obj\Debug\ReservasCitasMedicas MLCJ.csproj.AssemblyReference.cache
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\ReservasCitasMedicas MLCJ\obj\Debug\ReservasCitasMedicas MLCJ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\ReservasCitasMedicas MLCJ\obj\Debug\ReservasCitasMedicas_MLCJ.Form1.resources
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\ReservasCitasMedicas MLCJ\obj\Debug\ReservasCitasMedicas_MLCJ.frmAdministracionCitas.resources
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\ReservasCitasMedicas MLCJ\obj\Debug\ReservasCitasMedicas_MLCJ.frmPaciente.resources
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\ReservasCitasMedicas MLCJ\obj\Debug\ReservasCitasMedicas_MLCJ.frmReservaCitasMedicas.resources
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\ReservasCitasMedicas MLCJ\obj\Debug\ReservasCitasMedicas_MLCJ.Properties.Resources.resources
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\ReservasCitasMedicas MLCJ\obj\Debug\ReservasCitasMedicas MLCJ.csproj.GenerateResource.cache
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\ReservasCitasMedicas MLCJ\obj\Debug\ReservasCitasMedicas MLCJ.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\ReservasCitasMedicas MLCJ\obj\Debug\ReservasCitasMedicas MLCJ.exe
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de programacion 1\ReservasCitasMedicas MLCJ\obj\Debug\ReservasCitasMedicas MLCJ.pdb
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de Programacion 2\ReservasCitasMedicas MLCJ\bin\Debug\ReservasCitasMedicas MLCJ.exe.config
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de Programacion 2\ReservasCitasMedicas MLCJ\bin\Debug\ReservasCitasMedicas MLCJ.exe
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de Programacion 2\ReservasCitasMedicas MLCJ\bin\Debug\ReservasCitasMedicas MLCJ.pdb
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de Programacion 2\ReservasCitasMedicas MLCJ\obj\Debug\ReservasCitasMedicas MLCJ.csproj.AssemblyReference.cache
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de Programacion 2\ReservasCitasMedicas MLCJ\obj\Debug\ReservasCitasMedicas MLCJ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de Programacion 2\ReservasCitasMedicas MLCJ\obj\Debug\ReservasCitasMedicas_MLCJ.Form1.resources
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de Programacion 2\ReservasCitasMedicas MLCJ\obj\Debug\ReservasCitasMedicas_MLCJ.frmAdministracionCitas.resources
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de Programacion 2\ReservasCitasMedicas MLCJ\obj\Debug\ReservasCitasMedicas_MLCJ.frmPaciente.resources
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de Programacion 2\ReservasCitasMedicas MLCJ\obj\Debug\ReservasCitasMedicas_MLCJ.frmReservaCitasMedicas.resources
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de Programacion 2\ReservasCitasMedicas MLCJ\obj\Debug\ReservasCitasMedicas_MLCJ.Properties.Resources.resources
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de Programacion 2\ReservasCitasMedicas MLCJ\obj\Debug\ReservasCitasMedicas MLCJ.csproj.GenerateResource.cache
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de Programacion 2\ReservasCitasMedicas MLCJ\obj\Debug\ReservasCitasMedicas MLCJ.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de Programacion 2\ReservasCitasMedicas MLCJ\obj\Debug\ReservasCitasMedicas MLCJ.exe
+C:\Users\Pc\Documents\inegenieria informatica\Lenguaje de Programacion 2\ReservasCitasMedicas MLCJ\obj\Debug\ReservasCitasMedicas MLCJ.pdb
